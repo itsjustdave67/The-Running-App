@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RunningApp/app/src/main/res/drawable-v24/bottom_nav_selector.xml" value="0.1325" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RunningApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1325" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/RunningApp/app/src/main/res/drawable-v24/ic_pause_black_24dp.xml" value="0.231" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RunningApp/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.1325" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RunningApp/app/src/main/res/layout-land/fragment_statistics.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RunningApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RunningApp/app/src/main/res/layout/fragment_run.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RunningApp/app/src/main/res/layout/fragment_statistics.xml" value="0.1" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/RunningApp/app/src/main/res/layout/item_run.xml" value="0.22447916666666667" />
       </map>
     </option>
